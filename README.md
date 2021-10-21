@@ -1,2 +1,2 @@
 # Airflow
-This is version control for apache-airflow package.
+This is file for run Apache-Airflow via docker compose
